@@ -1,8 +1,6 @@
 
 <div align="center">
   <img src="./coding_header.png" width="800"/>
-  
-  ![Snake animation](https://github.com/Jenny4831/Jenny4831/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 <h1 align="center">Hi there 👋, I'm Jenny Zhen Liang</h1>
@@ -72,7 +70,3 @@ HTML/CSS     ██░░░░░░░░░░░░░░░░░░░░�
 
 ---
 
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jenny4831&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
