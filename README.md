@@ -22,11 +22,15 @@
 
 ## 🚀 About Me
 
+![Coding](https://bit.ly/3vzQ4aG) <!-- Animated coding gif -->
+
 I'm a passionate software engineer with expertise in building scalable systems and crafting elegant solutions. Currently working as a Senior Software Engineer at SafetyCulture, where I focus on developing robust billing systems and improving customer experiences.
 
 ---
 
 ## 💻 Tech Stack
+
+![Tech](https://bit.ly/3vzQ4aG) <!-- Animated tech gif -->
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -62,6 +66,8 @@ HTML/CSS     ██░░░░░░░░░░░░░░░░░░░░�
 ---
 
 ## 🌟 Interests & Passions
+
+![Passion](https://bit.ly/3vzQ4aG) <!-- Animated passion gif -->
 
 - 🏗️ Software architecture and system design
 - 📚 Continuous learning and skill development
