@@ -25,9 +25,6 @@ I'm a passionate software engineer with expertise in building scalable systems a
 
 ---
 
-
----
-
 ## 🔧 Professional Experience
 
 ### **Senior Software Engineer @ SafetyCulture**
