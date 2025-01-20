@@ -18,15 +18,10 @@
   </a>
 </div>
 
----
-
 ## 🚀 About Me
 
 
 I'm a passionate software engineer with expertise in building scalable systems and crafting elegant solutions. Currently working as a Senior Software Engineer at SafetyCulture, where I focus on developing robust billing systems and improving customer experiences.
-
----
-
 
 ---
 
