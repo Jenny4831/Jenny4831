@@ -22,7 +22,6 @@
 
 ## 🚀 About Me
 
-![Coding](https://bit.ly/3vzQ4aG) <!-- Animated coding gif -->
 
 I'm a passionate software engineer with expertise in building scalable systems and crafting elegant solutions. Currently working as a Senior Software Engineer at SafetyCulture, where I focus on developing robust billing systems and improving customer experiences.
 
@@ -59,7 +58,6 @@ HTML/CSS     ██░░░░░░░░░░░░░░░░░░░░�
 
 ## 🌟 Interests & Passions
 
-![Passion](https://bit.ly/3vzQ4aG) <!-- Animated passion gif -->
 
 - 🏗️ Software architecture and system design
 - 📚 Continuous learning and skill development
