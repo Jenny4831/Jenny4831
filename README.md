@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">Hi there 👋, I'm Jenny Zhen Liang</h1>
-<h3 align="center">Senior Software Engineer | Go Specialist | Problem Solver</h3>
+<h3 align="center">Senior Software Engineer | Problem Solver</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/naimen-zhen-liang">
