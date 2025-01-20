@@ -45,6 +45,22 @@ I'm a passionate software engineer with expertise in building scalable systems a
 
 ---
 
+## 💻 Coding Language Breakdown
+
+Here's a breakdown of my most used programming languages:
+
+```text
+Go           ████████████████████░░░░░░   80% 
+JavaScript   ████████░░░░░░░░░░░░░░░░░░   30%
+Python       █████░░░░░░░░░░░░░░░░░░░░░   20%
+TypeScript   ███░░░░░░░░░░░░░░░░░░░░░░░   15%
+HTML/CSS     ██░░░░░░░░░░░░░░░░░░░░░░░░   10%
+```
+
+*Based on my public repositories and contributions*
+
+---
+
 ## 🌟 Interests & Passions
 
 - 🏗️ Software architecture and system design
