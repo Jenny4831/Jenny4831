@@ -52,16 +52,6 @@ I'm a passionate software engineer with expertise in building scalable systems a
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/Jenny4831">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jenny4831&show_icons=true&theme=radical&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jenny4831&layout=compact&theme=radical&langs_count=8" />
-  </a>
-</div>
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Jenny4831&style=flat-square&color=blue" alt="Profile Views"/>
