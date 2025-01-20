@@ -1,37 +1,68 @@
 
-<div id="header" align="center">
-  <img src="./coding_header.png" width="500"/>
+<div align="center">
+  <img src="./coding_header.png" width="800"/>
 </div>
 
-<div id="badges" align="center">
+<h1 align="center">Hi there 👋, I'm Jenny Zhen Liang</h1>
+<h3 align="center">Senior Software Engineer | Go Specialist | Problem Solver</h3>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/naimen-zhen-liang">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
 
-# 👋 About Me
+---
 
-I’m **Jenny Zhen Liang**, a dedicated software engineer with a passion for developing innovative solutions and enhancing user experiences.
+## 🚀 About Me
 
-## 💼 Experience
+I'm a passionate software engineer with expertise in building scalable systems and crafting elegant solutions. Currently working as a Senior Software Engineer at SafetyCulture, where I focus on developing robust billing systems and improving customer experiences.
 
-- **Senior Software Engineer at SafetyCulture**  
-  Currently contributing to the development of safety and quality management software, focusing on building scalable and efficient systems. My current focus is on **billing systems** to improve customer experiences and streamline processes.  
+---
 
-- **Expertise in Go (Golang)**  
-  Proficient in Go, with a strong emphasis on data structures, algorithm optimization, and implementing complex features such as folder tree operations.
+## 💻 Tech Stack
 
-- **Collaborative Development**  
-  Experienced in working within cross-functional teams to establish best practices in development and data storage, ensuring robust and maintainable codebases.
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
-## 🌟 Interests
+---
 
-- **Software Architecture**  
-  Enthusiastic about exploring modern software architecture and staying abreast of emerging technologies to deliver cutting-edge solutions.
+## 🔧 Professional Experience
 
-- **Mentorship and Collaboration**  
-  Passionate about mentoring peers and collaborating to create impactful software that addresses real-world challenges.
+### **Senior Software Engineer @ SafetyCulture**
+- 🛠️ Developing scalable billing systems to enhance customer experience
+- 🚀 Optimizing data structures and algorithms for high-performance operations
+- 🤝 Collaborating with cross-functional teams to establish best practices
+- 🌳 Implementing complex features like folder tree operations
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jenny4831&layout=compact&hide_progress=true&langs_count=8&card_width=320" />
-</a>
+---
+
+## 🌟 Interests & Passions
+
+- 🏗️ Software architecture and system design
+- 📚 Continuous learning and skill development
+- 👩‍🏫 Mentoring and knowledge sharing
+- 🛠️ Building tools that solve real-world problems
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/Jenny4831">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jenny4831&show_icons=true&theme=radical&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jenny4831&layout=compact&theme=radical&langs_count=8" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jenny4831&style=flat-square&color=blue" alt="Profile Views"/>
+</div>
