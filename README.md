@@ -85,6 +85,7 @@ HTML/CSS     ██░░░░░░░░░░░░░░░░░░░░�
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![NATS](https://img.shields.io/badge/NATS.io-27AAE1?style=for-the-badge&logo=natsdotio&logoColor=white)
 ![SQS](https://img.shields.io/badge/Amazon%20SQS-FF9900?style=for-the-badge&logo=amazon-sqs&logoColor=white)
 ![Buildkite](https://img.shields.io/badge/Buildkite-14CC80?style=for-the-badge&logo=buildkite&logoColor=white)
 
